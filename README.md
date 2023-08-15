@@ -8,7 +8,7 @@
 
 **Click <kbd>Use this template</kbd>!** That's the first step. After instantiating this template repo, there are a few things you'll need to do manually:
 
-1. Change the name in the `LICENSE` file to be your name or your organization's name. Right now it's `YOUR_NAME_HERE`.
+1. Change the name in the `LICENSE` file to be your name or your organization's name. Right now it's `YOUR_NAME`.
 2. Change or remove the banner image in the lower part of this readme. Don't worry, a banner image isn't required.
 3. Change the example from `"ghcr.io/octocat/features/i-am-awesome:1": {}` to your own name and feature name.
 4. Change any of the other readme text to match your own new awesome feature. 🚀
