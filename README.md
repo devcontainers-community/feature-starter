@@ -23,7 +23,7 @@
 5. Remove the top part of this `README.md` file. You don't want this template guide showing up on your own awesome feature, do you? 😉
 
 ---
-<!-- REMOVE THIS LINE AND EVERYTHING ABOVE -->
+<!-- REMOVE THIS LINE AND ABOVE -->
 
 # I am awesome Dev Container Feature
 
